@@ -9,6 +9,19 @@ Seven Classifiers are used and Merged together to one Final Model(Max-Voting Cla
 •	Support Vector Machine
 •	Gaussian Naïve Bayes
 
+# Final Application Preview:
+
+https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/c8ebe782-36b6-4b8a-bdcc-09509e620d7a
+
+![Screenshot 2024-04-06 223754](https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/8bef4aaf-2717-4cb9-89bb-ebb2163d706f)
+![Screenshot 2024-04-06 223717](https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/88db4368-8b57-49ac-990f-cd95bb0af3c2)
+![Screenshot 2024-04-06 223635](https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/f1cfdb65-06be-4c4e-9050-a6b729db796c)
+
+
+# Model Source Code Preview:
+
+https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/93676529-3ba3-4536-bba6-fa84d09d2382
+
 
 # Abstract:
 The Brain is considered as a powerhouse of the human body and it is body’s most sophisticated organ. Brain stroke is an urgent medical situation in which the blood arteries get ruptured causing damage to the brain cells. The World Health Organization (WHO) states that stroke is the primary cause of both death and dis-ability on a global scale. The chances of recovery of stroke victims increase if we predict stroke based on symptoms and it will also reduce the severity of the stroke. This research aims to develop a lightweight machine-learning model that can correctly predict brain stroke at an early stage. To measure the effectiveness of the model we used a reliable dataset from the Kaggle website for stroke predic-tion. The key contribution of this work is to introduce a model that employs the Max Voting Ensemble method to improve the prediction process. The classifiers used were: Decision Tree, Logistic Regression, Random Forest, K-Nearest Neighbour, Naïve Bayes, Support Vector Machine (SVM), and XGBoost . These classification models were integrated into the final Max Voting model us-ing the sklearnVoting Classifier, and the output is determined by the class receiv-ing the highest number of votes. The performance of this proposed model has been evaluated using Accuracy, Precision, Recall, and f1 score. The outcomes il-lustrate that the suggested Max voting model surpasses the individual classifiers, achieving an accuracy of 94%, and good overall precision, recall, and f1 score compared to the other individual classifiers.
@@ -51,12 +64,12 @@ pred_final = final_model.predict(X_test_std)
 Accuracy, precision, recall, and F1-score were computed for the final model.
 
 
-#Comparision of Algorithms
+# Comparision of Algorithms
 
 ![Screenshot 2024-04-06 215742](https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/77aa8169-7348-465c-b248-81fe535a05dc)
 
 
-#Graphs of Result:
+# Graphs of Result:
 1. Accuracy:
    ![Accuracy](https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/f3ff47b4-69fa-49a6-9038-d80a0c56847c)
 
@@ -64,14 +77,15 @@ Accuracy, precision, recall, and F1-score were computed for the final model.
    ![Screenshot 2024-02-29 135529](https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/71d279cd-1e0b-434c-93c6-e4b3ae4f1748)
 
 3. Recall:
-   ![Screenshot 2024-02-29 135553](https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/a6c28da0-4c54-4cb2-bb4f-e01b3b68f414)
+   ![Screenshot 2024-02-29 135553](https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/7967508f-4006-46b3-9718-72faa7f84721)
 
 4. F1-Score:
    ![F1](https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/320740f9-a4b7-42da-90d3-25238a601428)
 
 
 
-
+# copyright©️ 2024, All Right
+DANISH NAWAB, SUJYOTI NAM SINGH, YUTSAV HARI BHAGAT, NIDHISH RANJAN
 
 
 
