@@ -13,9 +13,10 @@ Seven Classifiers are used and Merged together to one Final Model(Max-Voting Cla
 
 https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/c8ebe782-36b6-4b8a-bdcc-09509e620d7a
 
+![Screenshot 2024-04-06 223635](https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/f1cfdb65-06be-4c4e-9050-a6b729db796c)
 ![Screenshot 2024-04-06 223754](https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/8bef4aaf-2717-4cb9-89bb-ebb2163d706f)
 ![Screenshot 2024-04-06 223717](https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/88db4368-8b57-49ac-990f-cd95bb0af3c2)
-![Screenshot 2024-04-06 223635](https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/f1cfdb65-06be-4c4e-9050-a6b729db796c)
+
 
 
 # Model Source Code Preview:
