@@ -85,6 +85,41 @@ Accuracy, precision, recall, and F1-score were computed for the final model.
 
 
 
+## Contributors 🍉
+
+Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/danishnawab55">
+                    <img src="https://avatars.githubusercontent.com/u/88277249?v=4" width="100px;" alt="Danish Nawab"/>
+                    <br />
+                    <sub><b>Danish Nawab</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Sujyoti03">
+                    <img src="https://avatars.githubusercontent.com/u/98302735?v=4" width="100px;" alt="Sujyoti Nam Singh"/>
+                    <br />
+                    <sub><b>Sujyoti Nam Singh</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Yutsav1">
+                    <img src="https://avatars.githubusercontent.com/u/94309077?v=4" width="100px;" alt="Yutsav Hari Bhagat"/>
+                    <br />
+                    <sub><b>Yutsav Hari Bhagat</b></sub>
+                </a>
+            </td>
+        </tr> 
+
+
+
 # copyright©️ 2024, All Right
 DANISH NAWAB, SUJYOTI NAM SINGH, YUTSAV HARI BHAGAT, NIDHISH RANJAN
 
