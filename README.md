@@ -1,13 +1,13 @@
 # A lightweight Machine Learning Model to Predict Brain Stroke
 This is our Final Year Project which is based on Machine learning Algorithm Max-Voting (Ensemble method)
 Seven Classifiers are used and Merged together to one Final Model(Max-Voting Classifier)
-•	Decision Tree
-•	Logistic Regression
-•	Random Forest
-•	K-Nearest Neighbors
-•	XGBoost
-•	Support Vector Machine
-•	Gaussian Naïve Bayes
+1. Decision Tree
+2. Logistic Regression
+3. Random Forest
+4. K-Nearest Neighbours
+5. Support Vector Machine
+6. Gaussian Naïve Bayes
+7. XGBoost
 
 # Final Application Preview:
 
@@ -70,7 +70,7 @@ Accuracy, precision, recall, and F1-score were computed for the final model.
 ![Screenshot 2024-04-06 215742](https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/77aa8169-7348-465c-b248-81fe535a05dc)
 
 
-# Graphs of Result:
+# Graphs of Final Results:
 1. Accuracy:
    ![Accuracy](https://github.com/danishnawab55/Brain_Stroke_Prediction/assets/88277249/f3ff47b4-69fa-49a6-9038-d80a0c56847c)
 
