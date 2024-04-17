@@ -116,6 +116,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Yutsav Hari Bhagat</b></sub>
                 </a>
             </td>
+		 <td align="center">
+                <a href="https://github.com/nidhishranjan">
+                    <img src="https://avatars.githubusercontent.com/u/129386843?v=4" width="100px;" alt="Nidhish Ranjan"/>
+                    <br />
+                    <sub><b>Nidhish Ranjan</b></sub>
+                </a>
+            </td>
         </tr> 
     </tbody>
 </table>
